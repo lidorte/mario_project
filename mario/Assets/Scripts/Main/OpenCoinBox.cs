@@ -13,6 +13,7 @@ public class OpenCoinBox : MonoBehaviour
     {
         if (col.gameObject.tag == "Player")
         {
+            Coin.SetActive(true);
             float xPos = Coin.transform.position.x;
             float yPos = Coin.transform.position.y;
             float zPos = Coin.transform.position.z;

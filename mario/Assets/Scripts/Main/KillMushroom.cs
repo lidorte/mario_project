@@ -12,5 +12,6 @@ public class KillMushroom : MonoBehaviour
         BoxCollider box = (BoxCollider) this.GetComponent("BoxCollider");
         box.enabled = false;
         Mushroom.SetActive(false);
+        GlobalScore.ScoreCount += 5;
     }
 }

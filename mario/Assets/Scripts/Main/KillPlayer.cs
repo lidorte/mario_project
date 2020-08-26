@@ -14,5 +14,7 @@ public class KillPlayer : MonoBehaviour
         yield return new WaitForSeconds(1);
         Application.LoadLevel(1);
         GlobalCoins.CoinCount = 0;
+        GlobalScore.ScoreCount = 0;
+        GlobalTime.TimePassed = 0;
     }
 }

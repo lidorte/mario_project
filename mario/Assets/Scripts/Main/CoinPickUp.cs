@@ -8,5 +8,6 @@ public class CoinPickUp : MonoBehaviour
     {
         transform.position = new Vector3(0, -1000, 0);
         GlobalCoins.CoinCount += 1;
+        GlobalScore.ScoreCount += 1;
     }
 }

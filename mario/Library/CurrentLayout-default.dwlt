@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 494}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 344}
   m_MaxSize: {x: 4004, y: 8044}
   vertical: 1
-  controlID: 75
+  controlID: 13
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 444}
   m_MaxSize: {x: 22012, y: 10022}
   vertical: 0
-  controlID: 183
+  controlID: 152
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 54
+  controlID: 153
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -213,8 +213,8 @@ MonoBehaviour:
     y: 0
     width: 329
     height: 631
-  m_MinSize: {x: 204, y: 222}
-  m_MaxSize: {x: 4004, y: 4022}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -265,8 +265,8 @@ MonoBehaviour:
     y: 0
     width: 389
     height: 947
-  m_MinSize: {x: 277, y: 72}
-  m_MaxSize: {x: 4002, y: 4022}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -319,8 +319,8 @@ MonoBehaviour:
     y: 473
     width: 742
     height: 474
-  m_MinSize: {x: 202, y: 222}
-  m_MaxSize: {x: 4002, y: 4022}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -467,9 +467,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 60f4ffff76fbffff28450000de6c00002e7e0000
+      m_SelectedIDs: f46b0600
+      m_LastClickedID: 420852
+      m_ExpandedIDs: 78bbffff06d2ffffb4d5ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -581,9 +581,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 602f0000
-    m_LastClickedID: 12128
-    m_ExpandedIDs: 00000000c62e0000cc2e0000fc3000004e330000d433000028370000163800004e3900009e3a00008ca700008ea7000090a7000092a7000094a7000000ca9a3b
+    m_SelectedIDs: 5e7d0000
+    m_LastClickedID: 32094
+    m_ExpandedIDs: 00000000f27c0000f87c0000267e0000747f0000d07f00008e81000028820000e28200006a8300008cef00008eef000090ef000092ef000094ef000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -611,7 +611,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c62e0000cc2e0000fc3000004e330000d433000028370000163800004e3900009e3a00008ca700008ea7000090a7000092a7000094a70000
+    m_ExpandedIDs: 00000000f27c0000267e0000747f0000d07f00008e81000028820000e28200006a8300008cef00008eef000090ef000092ef000094ef0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -784,9 +784,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 110.549416, y: 7.384495, z: 5.5327206}
+    m_Target: {x: -2.5942383, y: 3.241211, z: 0.703125}
     speed: 2
-    m_Value: {x: 110.549416, y: 7.384495, z: 5.5327206}
+    m_Value: {x: -2.5942383, y: 3.241211, z: 0.703125}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -815,17 +815,17 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.2753815, y: -0.009515141, z: 0.0027259125, w: 0.9612859}
+    m_Target: {x: 0.13062696, y: -0.3105404, z: 0.04312876, w: 0.94055563}
     speed: 2
-    m_Value: {x: 0.27538106, y: -0.009515125, z: 0.0027259078, w: 0.9612843}
+    m_Value: {x: 0.13062671, y: -0.3105398, z: 0.043128677, w: 0.94055384}
   m_Size:
-    m_Target: 23.493546
+    m_Target: 12.570297
     speed: 2
-    m_Value: 23.493546
+    m_Value: 12.570297
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
     m_Speed: 0.9
     m_SpeedNormalized: 0.47
